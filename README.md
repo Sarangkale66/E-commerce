@@ -9,7 +9,10 @@
 - payment schema
 - order schema
 
-# .env
+# Environment Variables
+Create a <b>.env</b> file with the following variables:
+```
 MONGO_URI = xyza
 JWT_SECRET = abcd
 PORT = 8000
+```
